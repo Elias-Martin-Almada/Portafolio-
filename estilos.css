@@ -23,6 +23,9 @@ header{
     background-color: #303030;
     color: white;
     /* padding-top: 10%; */
+    background-image: url('https://static.vecteezy.com/system/resources/previews/001/178/860/large_2x/abstract-techno-landscape-vector.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .caja-central{
     margin-top: 10%;
