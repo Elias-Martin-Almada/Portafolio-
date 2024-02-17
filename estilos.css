@@ -55,7 +55,7 @@ header{
 
 .dos{
     background-color: #F2F2F2;
-    height: 800px;
+    height: 1000px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -79,7 +79,7 @@ header{
 
 .tres{
     background-color: #303030;
-    height: 600px;
+    height: 1000px;
     display: flex;
     justify-content: flex-start;
     flex-direction: column;
